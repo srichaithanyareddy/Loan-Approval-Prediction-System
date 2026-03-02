@@ -1,0 +1,8 @@
+ml_env/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*.pkl
+.DS_Store
+.vscode/ml_env/  venv/  __pycache__/  *.pkl  *.pyc  .vscode/ 
